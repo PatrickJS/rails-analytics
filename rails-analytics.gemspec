@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rubygems@gdi2290.com"]
   spec.description   = %q{Basic analytics gem for Rails}
   spec.summary       = %q{Basic analytics gem for Rails}
-  spec.homepage      = ""
+  spec.homepage      = "http://gdi2290.github.io/rails-analytics/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
