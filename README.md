@@ -1,6 +1,6 @@
 # Rails::Analytics
 
-TODO: Write a gem description
+Basic analytics gem for Rails
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+If you want to keep track of events in your Rails app
 
 ## Contributing
 
